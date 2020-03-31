@@ -1,1 +1,2 @@
-# Maze
+# RG097-lavirint
+Lavirint
